@@ -1,4 +1,4 @@
-<h1> Colorful Somke Effect </h1>
+<h1> Colorful Smoke Effect </h1>
 
 <p> This is a HTML, CSS based a artwork have some animation effect with mp4 file. I do this by help from @Online_Tutorial Youtube Channel.
 </p>
